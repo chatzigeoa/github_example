@@ -1,4 +1,4 @@
-# Example of
+# Example of README
 An example of a repository
 
 Created by [**Dimitrios Panagopoulos**](https://www.linkedin.com/in/dpanagopoulos/)
